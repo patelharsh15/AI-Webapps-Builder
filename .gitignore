@@ -1,0 +1,17 @@
+# Environment variables
+/go-backend/.env
+
+# Node modules
+/frontend/node_modules/
+
+# Build outputs
+/frontend/dist/
+/frontend/build/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+*.log
